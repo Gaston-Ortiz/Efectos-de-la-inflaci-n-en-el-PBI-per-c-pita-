@@ -3,3 +3,6 @@ En el presente trabajo se estudia la relación entre la inflación y el PBI per 
 También se utiliza un modelo con las variables principales que afectan al pbipc. Los métodos de estimación utilizados son Mínimos Cuadrados Ordinarios, agrupados y por último una estimación de efecto fijo.
 
 A partir de esto de se encontró una relación negativa entre la inflación y el pbipc, más específicamente un aumento de 1% de la tasa de la inflación disminuye el pbipc en un 0,05%.
+
+## Problemas de visualización
+Si tienes problemas para visualizar correctamente las notebooks puedes dirigirte al siguiente link https://nbviewer.jupyter.org/github/Gaston-Ortiz/Efectos-de-la-inflaci-n-en-el-PBI-per-c-pita-/tree/master/ para ver desde allí las notebooks.
